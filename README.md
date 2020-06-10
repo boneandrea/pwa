@@ -3,4 +3,5 @@
 
 # こうするしかない
 
-index.htmlに書いてもbuildされない
+index.htmlに書いてもbuildされない  
+なお、反映には1分程度かかる。stress.
